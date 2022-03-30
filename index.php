@@ -13,7 +13,14 @@
 </head>
 <body>
     <div class="container-fluid">
-        
+        <header></header>
+        <nav></nav>
+    </div>
+
+    <div class="container-fluid">
+        <div class="container">
+            
+        </div>
     </div>
 </body>
 </html>

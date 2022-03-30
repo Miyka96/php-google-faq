@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto,arial,sans-serif;
+    font-size: 14px;
+}
+.container-fluid{
+    width: 100%;
+    padding: 10px;
+}
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.question{
+    color: #3c4043;
+    font-family: 'Google Sans',sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+.answer{
+    margin: 10px 0;
+    line-height: 24px;
+    padding-top: 20px;
+}
